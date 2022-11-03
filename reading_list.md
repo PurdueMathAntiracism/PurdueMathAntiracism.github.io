@@ -85,6 +85,10 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 1. [“Color Neutral” Is Not a Thing: Redefining Construct Definition and Representation through a Justice Oriented Critical Antiracist Lens](https://purdue.primo.exlibrisgroup.com/permalink/01PURDUE_PUWL/5imsd2/cdi_crossref_primary_10_1111_emip_12429) by Jennifer Randall
 1. [When black people are in pain, white people just join book clubs](https://www.washingtonpost.com/outlook/white-antiracist-allyship-book-clubs/2020/06/11/9edcc766-abf5-11ea-94d2-d7bc43b26bf9_story.html) by Tre Johnson
 1. [Cross-Cultural Study of Cognitive and Metacognitive Processes During Math Problem Solving](https://purdue.primo.exlibrisgroup.com/permalink/01PURDUE_PUWL/5imsd2/cdi_crossref_primary_10_1111_ssm_12027) by Barbara Cozza and Maria Oreshkina
+1. [The Nonperformativity of Antiracism](https://www.jstor.org/stable/pdf/40338719.pdf) by Sara Ahmed
+1. [Ending racism is key to better science: a message from Nature’s guest editors](https://www.nature.com/articles/d41586-022-03247-w) by Melissa Nobles, Chad Womack, Ambroise Wonkam & Elizabeth Wathuti
+1. [Do introductory courses disproportionately drive minoritized students out of STEM pathways?](https://academic.oup.com/pnasnexus/article/1/4/pgac167/6706685) by Neil Hatfield, Nathanial Brown, & Chad M Topaz
+1. [The unseen Black faces of AI algorithms](https://www.nature.com/articles/d41586-022-03050-7) by Abeba Birhane
 
 - [Summer Program Gives Women in Graduate-Level Mathematics an EDGE](http://today.ttu.edu/posts/2018/06/edge) by Amanda Castro-Crist
 - [Building Equity-minded Online Programs](https://www.ams.org/journals/notices/202101/rnoti-p63.pdf) by Justin Lanier and Marissa Kawehi Loving
@@ -107,6 +111,7 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 1. [Mathematics for Human Flourishing](https://purdue-primo-prod.hosted.exlibrisgroup.com/permalink/f/1c3q7im/TN_jstor_books10.2307/j.ctvt1sgss) by Francis Su
 1. [White Rage: The Unspoken Truth of Our Racial Divide](https://purdue.primo.exlibrisgroup.com/permalink/01PURDUE_PUWL/uc5e95/alma99169665099601081) by Carol Anderson
 1. [Count Me In](https://bookstore.ams.org/clrm-68/) edited by Della Dumbaugh and Deanna Haunsperger
+1. [Mathematics for Social Justice: Resources for the College Classroom](https://purdueuniversity.on.worldcat.org/oclc/1083675767) edited by Gizem Karaali and Lily S. Khadjavi
 
 - [Fatal Invention](https://purdue.primo.exlibrisgroup.com/permalink/01PURDUE_PUWL/uc5e95/alma99169712954101081) by Dorothy Roberts
 - [Other People's Children: Cultural Conflict in the Classroom](https://eric.ed.gov/?id=ED387274) by Lisa Delpit
@@ -115,7 +120,6 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 - [Between the World and Me](https://purdue-primo-prod.hosted.exlibrisgroup.com/permalink/f/vjfldl/PURDUE_ALMA21649683080001081) by Ta-Nehisi Coates
 - [Critical race theory in mathematics education](https://www.worldcat.org/title/critical-race-theory-in-mathematics-education/oclc/1099791038) by Julius Davis and Christopher C Jett
 - [Race after technology : abolitionist tools for the new Jim code](https://purdue-primo-prod.hosted.exlibrisgroup.com/permalink/f/1o8r5pt/PURDUE_ALMA51832244030001081) by Ruha Benjamin
-- [Mathematics for Social Justice: Resources for the College Classroom](https://purdueuniversity.on.worldcat.org/oclc/1083675767) edited by Gizem Karaali and Lily S. Khadjavi
 - [How Many More Fires: A List of Demands](https://www.purdueexponent.org/pdf_9500eed8-8efa-11e5-b9d7-075b97b5bb6c.html) by Concerned Purdue Student Body Members
 - [The crest of the peacock : the non-european roots of mathematics](https://purdue-primo-prod.hosted.exlibrisgroup.com/permalink/f/vjfldl/PURDUE_ALMA21510494460001081) by George Gheverghese Joseph
 - [Caste: the origins of our discontents](https://purdueuniversity.on.worldcat.org/oclc/1147928120) by Isabel Wilkerson
@@ -145,6 +149,9 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 1. [10 things every math educator should know](https://www.youtube.com/watch?v=RQADxuZVIg0) by Rochelle Gutiérrez
 1. [Rehumanizing Mathematics: A Vision for the Future](https://www.youtube.com/watch?v=D266LYIigS0) by Rochelle Gutiérrez
 1. [Asian Americans: Last Week Tonight with John Oliver](https://www.youtube.com/watch?v=29lXsOYBaow)
+1. [Is PragerU Right About Diversity in STEM?](https://www.youtube.com/watch?v=BYxBi7ssKGM) by Dr. Fatima
+1. [Seeking racial equity and social justice in mathematics teaching and learning] by Robert Berry
+1. [Black Queer Town Hall in STEM](https://youtu.be/hTv0n-KAMPM?t=9292) panel discussion
 
 - [Picture a Scientist](https://www.pictureascientist.com/) (feature film)
 - [Social Justice Mathematics](https://www.youtube.com/watch?v=hClZCFKbJMs) by Lily Khadjavi
