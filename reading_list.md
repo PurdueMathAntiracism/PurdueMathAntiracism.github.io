@@ -165,7 +165,8 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 - [Black In Math Week](https://twitter.com/hashtag/BlackInMathWeek) on Twitter
 - [From Woke to Work: The Anti-Racist Journey](https://li.sten.to/G0N5WSg?fbclid=IwAR2DRgeX3ZFoI2301ZdNhwlaaqwlMwbOud4ai54F5QqZJuVA59UINNMirIc) podcast
 
-<h2>Other people's reading lists</h2>
+## Other people's reading lists
+
 - [Irena Swanson](https://www.math.purdue.edu/~iswanso/links.html)
 - [new york times](https://www.nytimes.com/2019/05/29/books/review/antiracist-reading-list-ibram-x-kendi.html)
 - [Ibram X. Kendi](https://chipublib.bibliocommons.com/list/share/204842963/1357692923)
