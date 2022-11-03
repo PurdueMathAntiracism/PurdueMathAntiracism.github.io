@@ -150,7 +150,7 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 1. [Rehumanizing Mathematics: A Vision for the Future](https://www.youtube.com/watch?v=D266LYIigS0) by Rochelle Gutiérrez
 1. [Asian Americans: Last Week Tonight with John Oliver](https://www.youtube.com/watch?v=29lXsOYBaow)
 1. [Is PragerU Right About Diversity in STEM?](https://www.youtube.com/watch?v=BYxBi7ssKGM) by Dr. Fatima
-1. [Seeking racial equity and social justice in mathematics teaching and learning] by Robert Berry
+1. [Seeking racial equity and social justice in mathematics teaching and learning](https://www.msri.org/workshops/1012) by Robert Berry
 1. [Black Queer Town Hall in STEM](https://youtu.be/hTv0n-KAMPM?t=9292) panel discussion
 
 - [Picture a Scientist](https://www.pictureascientist.com/) (feature film)
