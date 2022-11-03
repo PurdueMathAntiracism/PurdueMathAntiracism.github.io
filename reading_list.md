@@ -107,6 +107,7 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 1. [Mathematics for Human Flourishing](https://purdue-primo-prod.hosted.exlibrisgroup.com/permalink/f/1c3q7im/TN_jstor_books10.2307/j.ctvt1sgss) by Francis Su
 1. [White Rage: The Unspoken Truth of Our Racial Divide](https://purdue.primo.exlibrisgroup.com/permalink/01PURDUE_PUWL/uc5e95/alma99169665099601081) by Carol Anderson
 1. [Count Me In](https://bookstore.ams.org/clrm-68/) edited by Della Dumbaugh and Deanna Haunsperger
+
 - [Fatal Invention](https://purdue.primo.exlibrisgroup.com/permalink/01PURDUE_PUWL/uc5e95/alma99169712954101081) by Dorothy Roberts
 - [Other People's Children: Cultural Conflict in the Classroom](https://eric.ed.gov/?id=ED387274) by Lisa Delpit
 - [Building Support for Scholarly Practices in Mathematics Methods](https://purdueuniversity.on.worldcat.org/oclc/1003489577) (anthology)
@@ -144,6 +145,7 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 1. [10 things every math educator should know](https://www.youtube.com/watch?v=RQADxuZVIg0) by Rochelle Gutiérrez
 1. [Rehumanizing Mathematics: A Vision for the Future](https://www.youtube.com/watch?v=D266LYIigS0) by Rochelle Gutiérrez
 1. [Asian Americans: Last Week Tonight with John Oliver](https://www.youtube.com/watch?v=29lXsOYBaow)
+
 - [Picture a Scientist](https://www.pictureascientist.com/) (feature film)
 - [Social Justice Mathematics](https://www.youtube.com/watch?v=hClZCFKbJMs) by Lily Khadjavi
 - [TODOS Live!](https://vimeo.com/user56336191)
@@ -156,6 +158,7 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 	- examples relating specifically to math class: [A](https://www.instagram.com/p/CBrsRmyDzGC/), [B](https://www.instagram.com/p/CBtW8FWjJ1A/).
 	- examples relating specifically to group work: [A](https://www.instagram.com/p/CBrMIgvjTVs/), [B](https://www.instagram.com/p/CBtrSWxDDk0/), [C](https://www.instagram.com/p/CBvUvCrDN9e/), [D](https://www.instagram.com/p/CBs793JjMvb/), [E](https://www.instagram.com/p/CBtUTI7D6uo/), [F](https://www.instagram.com/p/CB0oonoDUTI/).
 	- examples of mistreatment by instructors: [A](https://www.instagram.com/p/CBuTmsSj9Sa/), [B](https://www.instagram.com/p/CBo-yXLDJH3/).
+	
 - [Lunch in the Time of Covid](https://www.andrewkobin.com/lunch-in-the-time-of-covid)
 - [Math Ed Podcast](https://open.spotify.com/episode/6tEcd7M3fmoXlTe6ZeiXYb?si=eErKwkO3RcWMPIechL64Dg) interview with Gregory Larnell
 - [AMS education webinars](http://www.ams.org/education/webinars)
