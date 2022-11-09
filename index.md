@@ -9,7 +9,7 @@ We mostly organize via our mailing list which [you can join here](https://lists.
 
 In fall of 2022 we are meeting every Wednesday in Haas hall room 101 at 12:00 noon. Please feel free to join us, even if you have never come before.
 
-## Next meeting November 9
+## Next meeting November 16
 
 We will discuss:
 
