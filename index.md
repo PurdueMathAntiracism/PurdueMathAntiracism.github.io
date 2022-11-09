@@ -13,6 +13,5 @@ In fall of 2022 we are meeting every Wednesday in Haas hall room 101 at 12:00 no
 
 We will discuss:
 
-- [The unseen Black faces of AI algorithms](https://www.nature.com/articles/d41586-022-03050-7) by Abeba Birhane
-- [Seeking racial equity and social justice in mathematics teaching and learning](https://www.msri.org/workshops/1012) by Robert Berry
-- [Black Queer Town Hall in STEM](https://youtu.be/hTv0n-KAMPM?t=9292) panel discussion
+- [Making whiteness visible: The promise of critical race theory in engineering education](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jee.20432) by Stephanie Masta
+- [Keynote: Roles for Computing in Social Change Rediet Abebe (University of California, Berkeley)](https://www.msri.org/workshops/1012) by Rediet Abebe
