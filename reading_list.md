@@ -184,3 +184,5 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 - [Teaching Postsecondary Math for Social Justice: Resource Folder](https://drive.google.com/drive/u/0/folders/1crKiL54la0s5FbOgICIsWj-Dd-6RhS5p) edited by Kenan Ince
 - [Ethics in Mathematics Readings](https://docs.google.com/document/d/1P4xAUa9qfEbeCjurGOdJH3dW2JErVRJZ1K9DLAT8uYE/edit) compilied by Allison Miller
 - [Dismantle Collective](https://www.dismantlecollective.org/resources/)
+- [Books on White Identity](https://socialjusticebooks.org/booklists/white-identity/)
+- [Books on Whiteness & Critical White Studies](https://library.ship.edu/c.php?g=1035530&p=7532569)
