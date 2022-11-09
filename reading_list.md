@@ -89,6 +89,7 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 1. [Ending racism is key to better science: a message from Nature’s guest editors](https://www.nature.com/articles/d41586-022-03247-w) by Melissa Nobles, Chad Womack, Ambroise Wonkam & Elizabeth Wathuti
 1. [Do introductory courses disproportionately drive minoritized students out of STEM pathways?](https://academic.oup.com/pnasnexus/article/1/4/pgac167/6706685) by Neil Hatfield, Nathanial Brown, & Chad M Topaz
 1. [The unseen Black faces of AI algorithms](https://www.nature.com/articles/d41586-022-03050-7) by Abeba Birhane
+1. [Making whiteness visible: The promise of critical race theory in engineering education](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jee.20432) by Stephanie Masta
 
 - [Summer Program Gives Women in Graduate-Level Mathematics an EDGE](http://today.ttu.edu/posts/2018/06/edge) by Amanda Castro-Crist
 - [Building Equity-minded Online Programs](https://www.ams.org/journals/notices/202101/rnoti-p63.pdf) by Justin Lanier and Marissa Kawehi Loving
@@ -152,6 +153,7 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 1. [Is PragerU Right About Diversity in STEM?](https://www.youtube.com/watch?v=BYxBi7ssKGM) by Dr. Fatima
 1. [Seeking racial equity and social justice in mathematics teaching and learning](https://www.msri.org/workshops/1012) by Robert Berry
 1. [Black Queer Town Hall in STEM](https://youtu.be/hTv0n-KAMPM?t=9292) panel discussion
+1. [Keynote: Roles for Computing in Social Change Rediet Abebe (University of California, Berkeley)](https://www.msri.org/workshops/1012) by Rediet Abebe
 
 - [Picture a Scientist](https://www.pictureascientist.com/) (feature film)
 - [Social Justice Mathematics](https://www.youtube.com/watch?v=hClZCFKbJMs) by Lily Khadjavi
