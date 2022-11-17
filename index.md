@@ -9,9 +9,9 @@ We mostly organize via our mailing list which [you can join here](https://lists.
 
 In fall of 2022 we are meeting every Wednesday in Haas hall room 101 at 12:00 noon. Please feel free to join us, even if you have never come before.
 
-## Next meeting November 16
+## Next meeting November 30
 
 We will discuss:
 
-- [Making whiteness visible: The promise of critical race theory in engineering education](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jee.20432) by Stephanie Masta
-- [Keynote: Roles for Computing in Social Change Rediet Abebe (University of California, Berkeley)](https://www.msri.org/workshops/1012) by Rediet Abebe
+- [Transformative Justice: A Brief Description](https://transformharm.org/transformative-justice-a-brief-description) by Mia Mingus
+- [Beautiful, Difficult, Powerful: Ending Sexual Assault Through Transformative Justice](https://batjc.wordpress.com/resources/readings-media/) by Chrysalis Collective
