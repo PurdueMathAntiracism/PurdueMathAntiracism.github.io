@@ -96,7 +96,7 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 - [Make equity essential to expedite change in academia](https://www.nature.com/articles/s41564-020-00845-0) by Beronda L. Montgomery
 - [The Pipeline for Achieving Faculty Diversity: Debunking the Myths](https://files.eric.ed.gov/fulltext/ED402836.pdf) by Daryl G. Smith, Lisa Wolf-Wendel, Bonnie Busenberg, and Associates
 - [The Secret to Raising Smart Kids](https://mindfulbydesign.com/wp-content/uploads/2015/05/4.-The-Secret-To-Raising-Smart-Kids.pdf) by Carol S. Dweck
-- [Todxs cuentan: building community and welcoming humanity from the first day of class.](http://math.sfsu.edu/federico/Articles/firstdayofclass.pdf) by Federico Ardilla-Mantilla
+- [Todxs cuentan: building community and welcoming humanity from the first day of class.](/readings/firstdayofclass.pdf) by Federico Ardilla-Mantilla
 
 ## Books
 
