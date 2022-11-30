@@ -9,9 +9,8 @@ We mostly organize via our mailing list which [you can join here](https://lists.
 
 In fall of 2022 we are meeting every Wednesday in Haas hall room 101 at 12:00 noon. Please feel free to join us, even if you have never come before.
 
-## Next meeting November 30
+## Next meeting December 7
 
-We will discuss:
+We will meet to discuss [Todxs cuentan: building community and welcoming humanity from the first day of class.](/readings/firstdayofclass.pdf) by Federico Ardilla-Mantilla, and produce a document to share summarizing good ideas form the aarticle.
 
-- [Transformative Justice: A Brief Description](https://transformharm.org/transformative-justice-a-brief-description) by Mia Mingus
-- [Beautiful, Difficult, Powerful: Ending Sexual Assault Through Transformative Justice](https://batjc.wordpress.com/resources/readings-media/) by Chrysalis Collective
+We will also make plans for next semester, as this will be our final meeting of the year.
