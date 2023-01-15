@@ -140,6 +140,7 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 - [Whistling Vivaldi: And Other Clues to How Stereotypes Affect us](https://purdue.primo.exlibrisgroup.com/permalink/01PURDUE_PUWL/uc5e95/alma99140904620001081) by Claude Steele
 - [Do The Work!: An Antiracist Activity Book](http://www.wkamaubell.com/writing-full) by W. Kamau Bell and Kate Schatz
 - The Why Axis by Uri Gneezy and John List
+- [The myth of the model minority : Asian Americans facing racism](https://purdue.primo.exlibrisgroup.com/permalink/01PURDUE_PUWL/uc5e95/alma99139914570001081) by Rosalind Chou and Joe Feagin
 
 ## Videos
 
