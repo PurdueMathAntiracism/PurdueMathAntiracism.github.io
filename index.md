@@ -6,9 +6,8 @@ This is the home page for a reading group in the Purdue math department focused 
 
 We mostly organize via our mailing list which [you can join here](https://lists.purdue.edu/mailman/listinfo/mathantiracistreading) or by contacting [Patrick Debonis](mailto:pdebonis@purdue.edu).
 
-
 In Spring 2023 we are meeting every Thursday in Math room 215 at 4:30. Please feel free to join us, even if you have never come before.
 
-## Next meeting January 19
+## Next meeting January 26
 
-We will plan the semester ahead, and choose our next reading.
+We will discuss [chapter 12 of Count Me In](readings/honoring_culture_in_indigenous_and_latinx_communities.pdf), and the introduction to Practices and Policies](https://www.amazon.com/Practices-Policies-Advocating-Students-Mathematics/dp/B09CRW9C3F)
