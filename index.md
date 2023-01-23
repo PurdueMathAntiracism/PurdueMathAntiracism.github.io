@@ -10,4 +10,4 @@ In Spring 2023 we are meeting every Thursday in Math room 215 at 4:30. Please fe
 
 ## Next meeting January 26
 
-We will discuss [chapter 12 of Count Me In](readings/honoring_culture_in_indigenous_and_latinx_communities.pdf), and the introduction to [Practices and Policies](https://www.amazon.com/Practices-Policies-Advocating-Students-Mathematics/dp/B09CRW9C3F)
+We will discuss [chapter 12 of Count Me In](readings/honoring_culture_in_indigenous_and_latinx_communities.pdf)
