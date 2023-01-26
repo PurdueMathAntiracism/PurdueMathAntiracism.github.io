@@ -8,6 +8,6 @@ We mostly organize via our mailing list which [you can join here](https://lists.
 
 In Spring 2023 we are meeting every Thursday in Math room 215 at 4:30. Please feel free to join us, even if you have never come before.
 
-## Next meeting January 26
+## Next meeting February 2
 
-We will discuss [chapter 12 of Count Me In](readings/honoring_culture_in_indigenous_and_latinx_communities.pdf)
+We will discuss capters 1 and 2 of [Practices and Policies](https://www.amazon.com/Practices-Policies-Advocating-Students-Mathematics/dp/B09CRW9C3F/), and [More Than Just Skill: Examining Mathematics Identities, Racialized Narratives, and Remediation Among Black Undergraduates](https://purdue-primo-prod.hosted.exlibrisgroup.com/permalink/f/1c3q7im/TN_jstor_csp10.5951/jresematheduc.47.3.0233) by Gregory Larnell
