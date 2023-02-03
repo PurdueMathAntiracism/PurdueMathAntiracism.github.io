@@ -91,6 +91,7 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 1. [The unseen Black faces of AI algorithms](https://www.nature.com/articles/d41586-022-03050-7) by Abeba Birhane
 1. [Making whiteness visible: The promise of critical race theory in engineering education](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jee.20432) by Stephanie Masta
 1. [Todxs cuentan: building community and welcoming humanity from the first day of class.](/readings/firstdayofclass.pdf) by Federico Ardilla-Mantilla
+1. [Urban Mathematics Education as a Political and Personal Project](https://ebrary.net/173081/education/urban_mathematics_education_political_personal_project) by Gregory Vincent Larnell and Danny Bernard Martin
 
 - [Summer Program Gives Women in Graduate-Level Mathematics an EDGE](http://today.ttu.edu/posts/2018/06/edge) by Amanda Castro-Crist
 - [Building Equity-minded Online Programs](https://www.ams.org/journals/notices/202101/rnoti-p63.pdf) by Justin Lanier and Marissa Kawehi Loving
