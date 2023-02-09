@@ -8,8 +8,8 @@ We mostly organize via our mailing list which [you can join here](https://lists.
 
 In Spring 2023 we are meeting every Thursday in Math room 215 at 4:30. Please feel free to join us, even if you have never come before.
 
-## Next meeting February 9
+## Next meeting February 16
 
-We will discuss capters 3 and 4 of [Practices and Policies](https://www.amazon.com/Practices-Policies-Advocating-Students-Mathematics/dp/B09CRW9C3F/),
+We will discuss chapters 5 and 6 of [Practices and Policies](https://www.amazon.com/Practices-Policies-Advocating-Students-Mathematics/dp/B09CRW9C3F/),
 
-For February 16 we will finish [More Than Just Skill: Examining Mathematics Identities, Racialized Narratives, and Remediation Among Black Undergraduates](https://purdue-primo-prod.hosted.exlibrisgroup.com/permalink/f/1c3q7im/TN_jstor_csp10.5951/jresematheduc.47.3.0233) by Gregory Larnell and discuss a new reading [Urban Mathematics Education as a Political and Personal Project](https://ebrary.net/173081/education/urban_mathematics_education_political_personal_project) by Gregory Larnell and Danny Bernard Martin
+We will also finish [More Than Just Skill: Examining Mathematics Identities, Racialized Narratives, and Remediation Among Black Undergraduates](https://purdue-primo-prod.hosted.exlibrisgroup.com/permalink/f/1c3q7im/TN_jstor_csp10.5951/jresematheduc.47.3.0233) by Gregory Larnell and discuss a new reading [Urban Mathematics Education as a Political and Personal Project](https://ebrary.net/173081/education/urban_mathematics_education_political_personal_project) by Gregory Larnell and Danny Bernard Martin.
