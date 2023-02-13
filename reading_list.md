@@ -100,6 +100,7 @@ If you are looking to get your feet wet, I recommend you start with book 1 and a
 - [The Pipeline for Achieving Faculty Diversity: Debunking the Myths](https://files.eric.ed.gov/fulltext/ED402836.pdf) by Daryl G. Smith, Lisa Wolf-Wendel, Bonnie Busenberg, and Associates
 - [The Secret to Raising Smart Kids](https://mindfulbydesign.com/wp-content/uploads/2015/05/4.-The-Secret-To-Raising-Smart-Kids.pdf) by Carol S. Dweck
 - [Unfolding the Myth of Imposter Syndrome](https://www.higheredjobs.com/Articles/articleDisplay.cfm?ID=3273&utm_source=01_25_2023&utm_medium=email&utm_campaign=InsiderUpdate&utm_content=1&VersID=1&SchedVersID=154) by Leah Jackson
+- [Charting a course to make maths truly universal](https://www.nature.com/articles/d41586-023-00223-w) by Rachel Crowell 
 
 ## Books
 
