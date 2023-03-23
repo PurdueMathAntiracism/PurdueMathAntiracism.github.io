@@ -8,8 +8,8 @@ We mostly organize via our mailing list which [you can join here](https://lists.
 
 In Spring 2023 we are meeting every Thursday in Math room 215 at 4:30. Please feel free to join us, even if you have never come before.
 
-## Next meeting February 16
+## Next meeting March 30
 
-We will discuss chapters 5 and 6 of [Practices and Policies](https://www.amazon.com/Practices-Policies-Advocating-Students-Mathematics/dp/B09CRW9C3F/),
+We will discuss chapters 13 and 14 of [Practices and Policies](https://www.amazon.com/Practices-Policies-Advocating-Students-Mathematics/dp/B09CRW9C3F/),
 
-We will also finish [More Than Just Skill: Examining Mathematics Identities, Racialized Narratives, and Remediation Among Black Undergraduates](https://purdue-primo-prod.hosted.exlibrisgroup.com/permalink/f/1c3q7im/TN_jstor_csp10.5951/jresematheduc.47.3.0233) by Gregory Larnell and discuss a new reading [Urban Mathematics Education as a Political and Personal Project](https://ebrary.net/173081/education/urban_mathematics_education_political_personal_project) by Gregory Larnell and Danny Bernard Martin.
+We will also discuss the article [“It Seems like They Purposefully Try to Make as Many Kids Drop”: An Analysis of Logics and Mechanisms of Racial-Gendered Inequality in Introductory Mathematics Instruction](https://www.tandfonline.com/doi/full/10.1080/00221546.2021.1879586) by Luis A. Leyva, R. Taylor McNeill, Brittany L. Marshall & Oscar A. Guzmán
